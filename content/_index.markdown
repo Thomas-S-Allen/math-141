@@ -8,6 +8,6 @@ title: Home
 
 ## Math 141 - Spring 2018
 
-This could be a brief introduction to the site or a nice image.
+This could be a brief introduction to the site or a nice image. Below is a list of blog posts, which an effectively be a course schedule - one post for each week.
 
 
