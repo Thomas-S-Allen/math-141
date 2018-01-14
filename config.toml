@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "math-141.netlify.com/"
 languageCode = "en-us"
 title = "A minimal Hugo website"
 theme = "hugo-xmin"
