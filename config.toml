@@ -28,6 +28,10 @@ footnotereturnlinkcontents = "↩"
     name = "Labs"
     url = "/labs/"
     weight = 4
+[[menu.main]]
+    name = "Problem Sets"
+    url = "/problemsets/"
+    weight = 4
 
 [params]
     description = "Introduction to Probability and Statistics At Reed College"
