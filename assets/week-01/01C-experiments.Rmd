@@ -1,6 +1,6 @@
 ---
 title: "Experimental Design"
-author: "Tom Allen"
+author: "Thomas Allen"
 output: ioslides_presentation
 ---
 
