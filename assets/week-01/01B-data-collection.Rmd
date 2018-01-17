@@ -26,7 +26,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Match the definition with correct term
 
-The target group about which you'd like to make inferences about
+The target group about which you'd like to make inferences
 
 <ol type="A">
   <li>Sample</li>
