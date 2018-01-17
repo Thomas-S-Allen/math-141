@@ -1,5 +1,6 @@
 ---
 title: ''
+author: "Heather Kitada"
 output:
   ioslides_presentation:
     incremental: true
