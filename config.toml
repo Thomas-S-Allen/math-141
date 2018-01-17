@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A minimal Hugo website"
+title = "Introduction to Probability and Statistics at Reed College"
 theme = "hugo-xmin"
 googleAnalytics = ""
 disqusShortname = ""
@@ -20,6 +20,14 @@ footnotereturnlinkcontents = "↩"
     name = "About"
     url = "/about/"
     weight = 2
+[[menu.main]]
+    name = "Syllabus"
+    url = "/syllabus/"
+    weight = 3
+[[menu.main]]
+    name = "Labs"
+    url = "/labs/"
+    weight = 4
 
 [params]
     description = "Introduction to Probability and Statistics At Reed College"

@@ -1,0 +1,9 @@
+---
+title: 'Week 1: Intro to Data'
+author: ''
+date: '2018-01-17'
+slug: week-1-intro-to-data
+categories: []
+tags: []
+---
+

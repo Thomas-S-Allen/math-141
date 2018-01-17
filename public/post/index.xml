@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on A minimal Hugo website</title>
+    <title>Posts on Introduction to Probability and Statistics at Reed College</title>
     <link>/post/</link>
-    <description>Recent content in Posts on A minimal Hugo website</description>
+    <description>Recent content in Posts on Introduction to Probability and Statistics at Reed College</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week 1: Intro to Data</title>
+      <link>/post/2018/01/17/week-1-intro-to-data/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/01/17/week-1-intro-to-data/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>
