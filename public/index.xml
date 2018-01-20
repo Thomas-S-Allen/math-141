@@ -86,7 +86,8 @@ Quisque mattis volutpat lorem vitae feugiat.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/labs/</guid>
-      <description>This is a space for labs</description>
+      <description>We meet in the laboratory (ETC 211) every Tuesday to tinker around with data and statistics. Our tool of choice is R, software that vastly amplifies your power to explore, visualize, and model data. Reed&amp;rsquo;s RStudio Server is accessible by going to https://rstudio.reed.edu/ and using your college login.
+Every week you&amp;rsquo;ll be working with a new data set and organizing your work in an RMarkdown document. You should complete work on your lab by Thursday at 11:59 PM.</description>
     </item>
     
     <item>
@@ -95,7 +96,9 @@ Quisque mattis volutpat lorem vitae feugiat.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/problemsets/</guid>
-      <description>This is a space for problem sets.</description>
+      <description>Weekly problem sets to reinforce the concepts from the reading as well as the material that we address in class. You’re encouraged to work on the problem sets with fellow students, though you’ll both need to turn in your own work. Problem sets are due every Monday at the beginning of class.
+Problem set guidelines:
+Remove all paper fringes and staple all pages Problem set number, date, and name should be clearly stated Write or type out all work and calculations for computational questions and provide clear explanations for yes/no questions Problem sets should be neat and easy to read (i.</description>
     </item>
     
     <item>

@@ -17,14 +17,15 @@ resampling procedures, multiple regression, and Bayesian models. A wide variety
 of applications from the natural and social sciences will be used.
 
 ### Contact
-MWF 1100-1150
+MWF 1100-1150  
+
 [Tom Allen](tomallen@reed.edu)
 
 - Office: Physics 228A
 - Office Hours:  Mon 1000-1100 and Fri 1200-1300 or by appointment
 
-MW 1310-1430
-MW 14400-1600
+MW 1310-1430 and MW 1400-1600  
+
 [Heather Kitada](kitadah@reed.edu)
 
 - Office: 
@@ -61,3 +62,6 @@ Date TBA
 
 **Final**  
 Finals Week
+
+### Academic Honesty
+You are welcome, even encouraged, to work together on homework and labs.  However, after discussing a problem, you must write up your own solutions independently and acknowledge your collaborators.  For exams, no collaboration is allowed.
