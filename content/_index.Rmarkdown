@@ -4,7 +4,7 @@ title: Home
  
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Minard.png/640px-Minard.png)
+<!--![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Minard.png/640px-Minard.png)-->
 
 # Introduction to Probability and Statistics
 
