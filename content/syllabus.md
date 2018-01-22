@@ -17,9 +17,9 @@ resampling procedures, multiple regression, and Bayesian models. A wide variety
 of applications from the natural and social sciences will be used.
 
 ### Class Meeting Times
--Section #1: MWF 11:00-11:50 in LIB 204
--Section #2: MW 13:10 - 14:30 in LIB 204
--Section #3: MW 14:40 - 16:00 in LIB 204
+- Section #1: MWF 11:00-11:50 in LIB 204
+- Section #2: MW 13:10 - 14:30 in LIB 204
+- Section #3: MW 14:40 - 16:00 in LIB 204
 
 
 ### Professors
