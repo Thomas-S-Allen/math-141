@@ -26,7 +26,7 @@ of applications from the natural and social sciences will be used.
 Section #1:
 [Tom Allen](tomallen@reed.edu)
 
-- Office: Physics 228A
+- Office: Elliot 408
 - Office Hours:  Mon 1000-1100 and Fri 1200-1300 or by appointment
 
 Sections #2 & 3:
@@ -67,5 +67,40 @@ Date TBA
 **Final**  
 Finals Week
 
-### Academic Honesty
-You are welcome, even encouraged, to work together on homework and labs.  However, after discussing a problem, you must write up your own solutions independently and acknowledge your collaborators.  For exams, no collaboration is allowed.
+Collaboration on exams is prohibited unless otherwise stated.
+
+
+### Grades
+Problems on homeworks and exams will be graded according to the following scale:
+
+\+ Perfect
+
+✓+ Minor mistakes
+
+✓ Major mistake, right idea
+
+✓- Wrong but contains a significant idea
+
+\- Wrong but contains a relevant idea
+
+0 None of the above
+
+NG Not graded
+
+In addition to this scheme critical feedback will be provided to each student to aid in their learning process.
+
+Your course grade will be based on your performance on the homework, exams, a project, and class participation.  It is expected that you actively engage in conversations in class by asking questions and participating in classroom discussions.
+
+### Academic honesty
+While collaboration is valuable to the learning experience you must write your own solutions independently.  Your written work should honestly represent your understanding of the material.
+You should acknowledge your collaborators and tutors by listing their names at the start of your solution
+The internet is a great source of information about mathematics; you are welcome to search information about the material of the course online, but you should not search for solutions to specific problems in the homework.
+The following are considered violations of the honor policy: cheating, fabrication, assisting, tampering, and plagiarism
+
+### Technology in the classroom: 
+Computers will be used for a portion of the class to teach R statistical programming.  While computers are being used for in class activities with R, students will be asked to stay on task and refrain from social media, browsing the internet, checking email, etc.  In general, the use of electronic devices (computers, cell phone, tablets, etc) is prohibited during all other times because it is distracting for both the instructor and fellow students.   If you have a specific reason for needing to use technology (for example, note taking) please let me know.
+
+### Disability Support Services
+Accommodations are collaborative efforts between students, faculty and Disability Support Services department. Students who believe they are eligible for accommodations but who have not yet obtained approval through DSS should contact DSS immediately at 503-517-7921.     
+
+
