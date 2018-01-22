@@ -16,20 +16,24 @@ sampling distributions, point and interval estimates, hypothesis tests,
 resampling procedures, multiple regression, and Bayesian models. A wide variety 
 of applications from the natural and social sciences will be used.
 
-### Contact
-MWF 1100-1150  
+### Class Meeting Times
+Section #1: MWF 11:00-11:50 in LIB 204
+Section #2: MW 13:10 - 14:30 in LIB 204
+Section #3: MW 14:40 - 16:00 in LIB 204
 
+
+### Professors
+Section #1:
 [Tom Allen](tomallen@reed.edu)
 
 - Office: Physics 228A
 - Office Hours:  Mon 1000-1100 and Fri 1200-1300 or by appointment
 
-MW 1310-1430 and MW 1400-1600  
-
+Section #2, 3:
 [Heather Kitada](kitadah@reed.edu)
 
-- Office: 
-- Office Hours:  
+- Office: Library 394
+- Office Hours: Tuesday  10:00 am - 12:00 pm and Wednesday 11:00 am - 12:00 pm and 4:00 - 5:00 pm
 
 
 **Evening Help Session**
