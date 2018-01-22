@@ -27,7 +27,7 @@ Section #1:
 [Tom Allen](tomallen@reed.edu) (*he/him/his*)
 
 - Office: Elliot 408
-- Office Hours:  Mon 1000-1100 and Fri 1200-1300 or by appointment
+- Office Hours:  Mon 0930-1030 and Fri 1200-1300 or by appointment
 
 Sections #2 & 3:
 [Heather Kitada](kitadah@reed.edu) (*she/her/hers*)
