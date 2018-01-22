@@ -24,13 +24,13 @@ of applications from the natural and social sciences will be used.
 
 ### Professors
 Section #1:
-[Tom Allen](tomallen@reed.edu)
+[Tom Allen](tomallen@reed.edu) (*he/him/his*)
 
 - Office: Elliot 408
 - Office Hours:  Mon 1000-1100 and Fri 1200-1300 or by appointment
 
 Sections #2 & 3:
-[Heather Kitada](kitadah@reed.edu)
+[Heather Kitada](kitadah@reed.edu) (*she/her/hers*)
 
 - Office: Library 394
 - Office Hours: Tuesday  10:00 am - 12:00 pm and Wednesday 11:00 am - 12:00 pm and 4:00 - 5:00 pm
