@@ -8,6 +8,6 @@ Every week you'll be working with a new data set and organizing your work in an 
 
 ### Lab Instructions
 
-1. [Intro to R and RStudio](math-141.netlify.com/assets/week-01/intro_to_r.html)
+1. [Intro to R and RStudio](../assets/week-01/intro_to_r.html)
 
 
