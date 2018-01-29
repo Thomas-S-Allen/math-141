@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Introduction to Probability and Statistics at Reed College</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week 2: Describing Data</title>
+      <link>/post/2018/01/29/week-1-intro-to-data/</link>
+      <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/01/29/week-1-intro-to-data/</guid>
+      <description>Monday  Describing Data Reading p. 19-30 HW 2: Due next Monday MTH-141 Suvey   Tuesday  Lab 2: Sampling   </description>
+    </item>
     
     <item>
       <title>Week 1: Intro to Data</title>
@@ -17,7 +26,7 @@
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/01/17/week-1-intro-to-data/</guid>
-      <description></description>
+      <description>Monday  Taxonomy of Data Reading p. 1-8 HW 1: Due next Monday MTH-141 Suvey   Tuesday  Lab 1 due Thursday at 11:59 pm   Wednesday  Data Collection for Inference Reading p. 9-16   Friday  Study Design Experiments Observational Studies   </description>
     </item>
     
   </channel>

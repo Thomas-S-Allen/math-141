@@ -17,3 +17,9 @@ Problem sets are practice. A good problem set will not only have the correct ans
 Due Monday, January 29, 2018
 
 Please work through problems 1, 4, 6, 8, 10, 11, 15, 16, and 17 in the Exercises at the end of Chapter 1 (the first one is labeled 1.1 on page 43).
+
+
+### Problem Set 2
+Dues Monday, February 5, 2018
+
+Please work through problems 24, 26, 40, and 47 from Chapter 1.
