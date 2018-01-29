@@ -7,3 +7,26 @@ categories: []
 tags: []
 ---
 
+## Monday
+
+* Taxonomy of Data
+* *Reading* p. 1-8
+* HW 1: Due next Monday
+* [MTH-141 Suvey](https://docs.google.com/forms/d/e/1FAIpQLSfVVezGtSNJNcd4weclzQfg2P2KiZbkcufle547HYCF3z2adQ/viewform)
+
+## Tuesday
+
+* [Lab 1](http://math-141.netlify.com/labs/) due Thursday at 11:59 pm
+
+## Wednesday
+
+* Data Collection for Inference
+* *Reading* p. 9-16
+
+## Friday
+
+* Study Design
+  + Experiments
+  + Observational Studies
+  
+  

@@ -1,0 +1,121 @@
+\documentclass[10pt]{article}\usepackage[]{graphicx}\usepackage[]{color}
+%% maxwidth is the original width if it is less than linewidth
+%% otherwise use linewidth (to make sure the graphics do not exceed the margin)
+\makeatletter
+\def\maxwidth{ %
+  \ifdim\Gin@nat@width>\linewidth
+    \linewidth
+  \else
+    \Gin@nat@width
+  \fi
+}
+\makeatother
+
+\definecolor{fgcolor}{rgb}{0.345, 0.345, 0.345}
+\newcommand{\hlnum}[1]{\textcolor[rgb]{0.686,0.059,0.569}{#1}}%
+\newcommand{\hlstr}[1]{\textcolor[rgb]{0.192,0.494,0.8}{#1}}%
+\newcommand{\hlcom}[1]{\textcolor[rgb]{0.678,0.584,0.686}{\textit{#1}}}%
+\newcommand{\hlopt}[1]{\textcolor[rgb]{0,0,0}{#1}}%
+\newcommand{\hlstd}[1]{\textcolor[rgb]{0.345,0.345,0.345}{#1}}%
+\newcommand{\hlkwa}[1]{\textcolor[rgb]{0.161,0.373,0.58}{\textbf{#1}}}%
+\newcommand{\hlkwb}[1]{\textcolor[rgb]{0.69,0.353,0.396}{#1}}%
+\newcommand{\hlkwc}[1]{\textcolor[rgb]{0.333,0.667,0.333}{#1}}%
+\newcommand{\hlkwd}[1]{\textcolor[rgb]{0.737,0.353,0.396}{\textbf{#1}}}%
+\let\hlipl\hlkwb
+
+\usepackage{framed}
+\makeatletter
+\newenvironment{kframe}{%
+ \def\at@end@of@kframe{}%
+ \ifinner\ifhmode%
+  \def\at@end@of@kframe{\end{minipage}}%
+  \begin{minipage}{\columnwidth}%
+ \fi\fi%
+ \def\FrameCommand##1{\hskip\@totalleftmargin \hskip-\fboxsep
+ \colorbox{shadecolor}{##1}\hskip-\fboxsep
+     % There is no \\@totalrightmargin, so:
+     \hskip-\linewidth \hskip-\@totalleftmargin \hskip\columnwidth}%
+ \MakeFramed {\advance\hsize-\width
+   \@totalleftmargin\z@ \linewidth\hsize
+   \@setminipage}}%
+ {\par\unskip\endMakeFramed%
+ \at@end@of@kframe}
+\makeatother
+
+\definecolor{shadecolor}{rgb}{.97, .97, .97}
+\definecolor{messagecolor}{rgb}{0, 0, 0}
+\definecolor{warningcolor}{rgb}{1, 0, 1}
+\definecolor{errorcolor}{rgb}{1, 0, 0}
+\newenvironment{knitrout}{}{} % an empty environment to be redefined in TeX
+
+\usepackage{alltt}
+
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{fancyhdr,url,hyperref}
+
+\oddsidemargin 0in  %0.5in
+\topmargin     0in
+\leftmargin    0in
+\rightmargin   0in
+\textheight    9in
+\textwidth     6in %6in
+
+\pagestyle{fancy}
+
+\lhead{\textsc{MATH 141}}
+\chead{\textsc{Practice}}
+\lfoot{}
+\cfoot{}
+%\cfoot{\thepage}
+\rfoot{}
+\renewcommand{\headrulewidth}{0.2pt}
+\renewcommand{\footrulewidth}{0.0pt}
+
+\newcommand{\ans}{\vspace{0.25in}}
+\newcommand{\R}{{\sf R}\xspace}
+\newcommand{\cmd}[1]{\texttt{#1}}
+
+\title{MATH 141:\\Intro to Probability and Statistics}
+\author{Prof. Allen}
+\date{Spring 2018}
+
+\rhead{\textsc{January 22, 2018}}
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\begin{document}
+%\SweaveOpts{concordance=TRUE}
+
+\paragraph{Recognizing Data}
+
+
+
+Problem 1.3 from Text
+
+\begin{enumerate}
+
+	\item Identify (i) the cases, (ii) the variables and their type, and (iii) the main research question in the studies described below.
+
+	\begin{enumerate}
+
+		\item Researchers collected data to examine the relationship between pollutants and preterm births in Southern California.  During the study, air pollution levels were measured by air quality monitoring stations.  Specifically, levels of carbon monoxide were recorded in parts per million, nitrogen dioxode and ozone in parts per hundred million, and coarse particulate matter (PM$_{10}$) in $\mu g $/$m^{3}$.  Length of gestation data were collected on 143,196 births between the years 1989 and 1993, and air pollution exposure during gestation was calculated for each birth.  The analysis suggested that increased ambient PM$_{10}$ and, to a lesser degree, CO concentration may be associated with the occurence of preterm births. See Ritz et al. (2000) for more details about the study.
+
+		\item The Buteyko method is a shallow breathing technique developed by Konstantin Buteyko, a Russian doctor, in 1952.  Anecdotal evidence suggests that the Buteyko method can reduce asthma symptoms and improve quality of life.  In a scientific study to determine the effectiveness of this method, researchers recruited 600 asthma patients aged 18-69 who relied on medication for asthma treatment.  These patients were split into two research groups: one practiced the Buteyko method and the other did not.  Patients were scored on quality of life, activity, asthma symptoms, and medication reduction on a scale from 0 to 10.  On average, the participants in the Buteyko group experienced a significant reduction in asthma symptoms and an improvement in quality of life. See McGowan (2003) for more details about the study.
+
+	\end{enumerate}
+
+	\item We will discuss study design later this week.  There are two types of studies we be primarily concerned with: experiments and observational studies.  What type of study are the above examples?  Explain your reasons for your classification.
+
+\end{enumerate}
+
+\paragraph{References}
+
+\begin{enumerate}
+\item McGowan, J. (2003). Health education in asthma management - Does the Buteyko Institute method make a difference? In: {\it Thorax} 58 (2003)
+\item Ritz, B., Yu, F., Chapa, G., \& Fruin, S. (2000). Effect of air pollution on preterm birth among children born in Southern California between 1989 and 1993. {\it Epidemiology (Cambridge, Mass.)}, {\it 11}(5), 502?511.
+\end{enumerate}
+
+
+
+\bibliography{01A-Data-bib} 
+
+
+\end{document}

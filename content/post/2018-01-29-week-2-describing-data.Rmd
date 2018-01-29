@@ -1,0 +1,23 @@
+---
+title: 'Week 2: Describing Data'
+author: ''
+date: '2018-01-29'
+slug: week-1-intro-to-data
+categories: []
+tags: []
+---
+
+ 
+## Monday
+
+* Describing Data
+* *Reading* p. 19-30
+* HW 2: Due next Monday
+* [MTH-141 Suvey](https://docs.google.com/forms/d/e/1FAIpQLSfVVezGtSNJNcd4weclzQfg2P2KiZbkcufle547HYCF3z2adQ/viewform)
+
+## Tuesday
+
+* Lab 2: Sampling
+
+  
+  
