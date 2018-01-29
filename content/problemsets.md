@@ -20,6 +20,6 @@ Please work through problems 1, 4, 6, 8, 10, 11, 15, 16, and 17 in the Exercises
 
 
 ### Problem Set 2
-Dues Monday, February 5, 2018
+Due Monday, February 5, 2018
 
 Please work through problems 24, 26, 40, and 47 from Chapter 1.
