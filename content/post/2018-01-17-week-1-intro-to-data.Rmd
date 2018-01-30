@@ -27,7 +27,7 @@ tags: []
 ## Friday
 
 * Study Design
-  + Experiments
-  + Observational Studies
+    + Experiments
+    + Observational Studies
 * [Slides](/slides/01C-experiments.html)
   
