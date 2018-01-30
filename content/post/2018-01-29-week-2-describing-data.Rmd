@@ -11,7 +11,7 @@ tags: []
 ## Monday
 
 * Describing Data - Graphical
-* [Example Plots in R](/02A-SomePlots.html)
+* [Example Plots in R](/slides/02A-SomePlots.html)
 * *Reading* p. 19-30
 * HW 2: Due next Monday
 * [MTH-141 Suvey](https://docs.google.com/forms/d/e/1FAIpQLSfVVezGtSNJNcd4weclzQfg2P2KiZbkcufle547HYCF3z2adQ/viewform)
@@ -24,7 +24,7 @@ tags: []
 
 * Describing Data - Numerical
 * *Reading* p. 19-30
-* [Slides](/slides/)
+* [Slides](/slides/01B-data-collection.html)
 
 
 
