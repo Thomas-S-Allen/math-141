@@ -6,6 +6,8 @@ title: Home
 
 <!--![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Minard.png/640px-Minard.png)-->
 
+![](/images/800px-Minard.png)
+
 # Introduction to Probability and Statistics
 
 ## Math 141 - Spring 2018

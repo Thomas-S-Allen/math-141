@@ -22,6 +22,7 @@ tags: []
 
 * Data Collection for Inference
 * *Reading* p. 9-16
+* [Slides](../assets/01B-data-collection.html)
 
 ## Friday
 

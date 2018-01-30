@@ -10,5 +10,5 @@ Every week you'll be working with a new data set and organizing your work in an 
 
 1. <a href="https://www.dropbox.com/s/4vpr5k8xxf52pa3/intro_to_r.html?dl=1">Intro to R and RStudio</a>
 
-
+2. [Thesis Tower Sampling](/handouts/handout-sampling-theses.pdf)
 
