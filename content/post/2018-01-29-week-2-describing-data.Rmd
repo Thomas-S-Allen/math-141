@@ -24,7 +24,7 @@ tags: []
 
 * Describing Data - Numerical
 * *Reading* p. 19-30
-* [Slides](/slides/01B-data-collection.html)
+* [Slides](/slides/02B-describing-data.html)
 
 
 
