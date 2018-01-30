@@ -22,12 +22,12 @@ tags: []
 
 * Data Collection for Inference
 * *Reading* p. 9-16
-* [Slides](../assets/01B-data-collection.html)
+* [Slides](/slides/01B-data-collection.html)
 
 ## Friday
 
 * Study Design
   + Experiments
   + Observational Studies
-  
+* [Slides](/slides/01C-experiments.html)
   
