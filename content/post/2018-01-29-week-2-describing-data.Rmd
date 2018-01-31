@@ -25,7 +25,7 @@ tags: []
 * Describing Data - Numerical
 * *Reading* p. 19-30
 * [Slides](/slides/02B-describing-data.html)
-
+* [Data Camp: Exploratory Data Analysis](https://www.datacamp.com/courses/exploratory-data-analysis)
 
 
   
