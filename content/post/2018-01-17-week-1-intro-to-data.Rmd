@@ -13,6 +13,7 @@ tags: []
 * *Reading* p. 1-8
 * HW 1: Due next Monday
 * [MTH-141 Suvey](https://docs.google.com/forms/d/e/1FAIpQLSfVVezGtSNJNcd4weclzQfg2P2KiZbkcufle547HYCF3z2adQ/viewform)
+* [Data Camp: Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
 
 ## Tuesday
 
