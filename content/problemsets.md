@@ -23,3 +23,9 @@ Please work through problems 1, 4, 6, 8, 10, 11, 15, 16, and 17 in the Exercises
 Due Monday, February 5, 2018
 
 Please work through problems 24, 26, 40, and 47 from Chapter 1.
+
+### Problem Set 3
+
+Due Monday, February 12, 2018
+
+Please work through [problem set 3](/handouts/ps3.pdf).
