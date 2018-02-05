@@ -6,18 +6,18 @@
     <description>Recent content in Posts on Introduction to Probability and Statistics at Reed College</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Week 2: Describing Data</title>
-      <link>/post/2018/01/29/week-1-intro-to-data/</link>
-      <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Week 3: Probability Foundations</title>
+      <link>/post/2018/02/05/week-2-probability-foundations/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/01/29/week-1-intro-to-data/</guid>
-      <description>Monday  Describing Data - Graphical Example Plots in R Reading p. 19-30 HW 2: Due next Monday MTH-141 Suvey   Tuesday  Lab 2: Sampling   Wednesday  Describing Data - Numerical Reading p. 19-30 Slides Data Camp: Exploratory Data Analysis   Friday  Probability Foundations Quiz Reading Appendix A, p. 295-306   </description>
+      <guid>/post/2018/02/05/week-2-probability-foundations/</guid>
+      <description>Monday  Pobability Foundations (continued) Reading Appendix A, p. 295-306 HW 3: Due next Monday HW 3 - Due next Monday   Tuesday  Lab 3: Visualization   </description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/01/29/week-1-intro-to-data/</guid>
-      <description>Monday  Pobability Foundations (continued) Reading Appendix A, p. 295-306 HW 3: Due next Monday HW 3 - Due next Monday   Tuesday  Lab 3: Visualization   </description>
+      <description>Monday  Describing Data - Graphical Example Plots in R Reading p. 19-30 HW 2: Due next Monday MTH-141 Suvey   Tuesday  Lab 2: Sampling   Wednesday  Describing Data - Numerical Reading p. 19-30 Slides Data Camp: Exploratory Data Analysis   Friday  Probability Foundations Quiz Reading Appendix A, p. 295-306   </description>
     </item>
     
     <item>
