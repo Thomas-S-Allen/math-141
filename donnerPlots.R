@@ -1,4 +1,4 @@
-install.packages("alr3")
+#install.packages("alr3")
 library(alr3)
 data(donner)
 ?donner
@@ -216,3 +216,29 @@ densplot1 <- ggplot(mtcars, aes(x=mpg)) +
   ggtitle("Density Plot of MPG")
 
 densplot1 
+
+boxplot0 <- ggplot(mtcars, aes(x=mpg)) +
+  geom_boxplot()+
+  theme_bw()+
+  ggtitle("Box Plot of MPG")
+
+boxplot0 
+
+boxplot1 <- ggplot(mtcars, aes(x=factor(cyl),y=mpg)) +
+  geom_boxplot()+
+  theme_bw()+
+  ggtitle("Side-by-Side Box Plot of MPG by Cylinder")
+
+boxplot1 
+
+
+X <- c(8, 11, 7, 7, 8, 11, 9, 6, 10, 7)
+length(X)
+
+sum(X)
+mean(X)
+
+sum((sort(X)-mean(X))^2)
+
+
+

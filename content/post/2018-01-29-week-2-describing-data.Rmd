@@ -28,4 +28,8 @@ tags: []
 * [Data Camp: Exploratory Data Analysis](https://www.datacamp.com/courses/exploratory-data-analysis)
 
 
+## Friday
+* Probability Foundations
+* Quiz
+* *Reading* Appendix A, p. 295-306
   
