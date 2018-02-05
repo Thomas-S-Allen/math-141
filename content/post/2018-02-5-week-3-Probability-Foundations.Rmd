@@ -12,7 +12,6 @@ tags: []
 
 * Pobability Foundations (continued)
 * *Reading* Appendix A, p. 295-306
-* HW 3: Due next Monday
 * [HW 3](/handouts/ps3.pdf) - Due next Monday
 
 ## Tuesday
