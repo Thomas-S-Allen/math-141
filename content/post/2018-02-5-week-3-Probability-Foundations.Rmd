@@ -1,0 +1,22 @@
+---
+title: 'Week 2: Describing Data'
+author: ''
+date: '2018-01-29'
+slug: week-1-intro-to-data
+categories: []
+tags: []
+---
+
+ 
+## Monday
+
+* Pobability Foundations (continued)
+* *Reading* Appendix A, p. 295-306
+* HW 3: Due next Monday
+* [HW 3](/handouts/ps3.pdf) - Due next Monday
+
+## Tuesday
+
+* Lab 3: Visualization
+
+  
