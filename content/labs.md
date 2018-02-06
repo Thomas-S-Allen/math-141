@@ -13,8 +13,9 @@ Every week you'll be working with a new data set and organizing your work in an 
 
 2. [Thesis Tower Sampling](/handouts/handout-sampling-theses.pdf)
 
-3. [Data Visualization](/labs/DataVisualization_pdf.pdf)
-<!--- 3. [Data Visualization](/labs/DataVisualization_html.html)
+<!---3. [Data Visualization](/labs/DataVisualization_pdf.pdf)
 --->
+3. [Data Visualization](/labs/DataVisualization_html.html)
+
 
 
