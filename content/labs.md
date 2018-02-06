@@ -8,7 +8,7 @@ Every week you'll be working with a new data set and organizing your work in an 
 
 ### Lab Instructions
 
-1. [Introduction to R and RStudio](/labs/IntroR_RStudio)
+1. [Introduction to R and RStudio](/labs/Intro_R.html)
 
 2. [Thesis Tower Sampling](/handouts/handout-sampling-theses.pdf)
 
