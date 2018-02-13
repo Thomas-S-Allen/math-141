@@ -29,3 +29,7 @@ Please work through problems 24, 26, 40, and 47 from Chapter 1.
 Due Monday, February 12, 2018
 
 Please work through [problem set 3](/handouts/ps3.pdf).
+
+Due Monday, February 19, 2018
+
+Please work through [problem set 4](/handouts/ps4.pdf).
