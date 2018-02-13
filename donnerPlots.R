@@ -16,6 +16,8 @@ str(Titanic)
 library(tidyverse)
 
 donner$Outcome<-factor(donner$Outcome)
+# 1 if survived
+# 0 if died
 
 ## Bar Chart 
 
@@ -241,4 +243,23 @@ mean(X)
 sum((sort(X)-mean(X))^2)
 
 
+###
+this.sim<-1:300
+p<-c()
+for(i in this.sim){
+  this.p<-mean(rbinom(i, 1, .5))
+  p<-c(p, this.p)
+}
+
+p.df<-data.frame(p.hat=p, 
+                 nsim=this.sim)
+
+ggplot(p.df, aes(x=nsim, y=p.hat))+
+  geom_point()+
+  theme_bw()+
+  ggtitle("Fair Coin Flip Simulation")+
+  geom_hline(yintercept = .5, 
+             color="red", 
+             lty=2, 
+             lwd=1)
 

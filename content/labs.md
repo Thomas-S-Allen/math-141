@@ -14,5 +14,7 @@ Every week you'll be working with a new data set and organizing your work in an 
 
 3. [Data Visualization](/labs/DataVisualization_html.html)
 
+4. [Data Wrangling](/labs/data_wrangling.html)
+
 
 
