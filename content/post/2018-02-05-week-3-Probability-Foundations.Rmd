@@ -11,11 +11,25 @@ tags: []
 ## Monday
 
 * Pobability Foundations (continued)
+  + Outcomes and Events
 * *Reading* Appendix A, p. 295-306
 * [HW 3](/handouts/ps3.pdf) - Due next Monday
 
 ## Tuesday
 
 * Lab 3: Visualization
+ 
+## Wednesday
 
+* Pobability Foundations (continued)
+  + Honest and Thief Simulation
+* *Reading* Appendix A, p. 306-316
+ 
+## Friday
+
+* Pobability Foundations (continued)
+  + Conditional Probability
+* *Reading* Appendix A, p. 306-316
+
+ 
   

@@ -1,0 +1,35 @@
+---
+title: 'Week 4: Random Variables'
+author: ''
+date: '2018-02-12'
+slug: week-4-random-variables
+categories: []
+tags: []
+---
+
+ 
+## Monday
+
+* Random Variables
+* *Reading* Appendix A, p. 315 - 323
+* [HW 4](/handouts/ps4.pdf). - Due next Monday
+
+## Tuesday
+
+* [Data Wrangling](/labs/data_wrangling.html)
+ 
+## Wednesday
+
+* Random Variables (continued)
+* Fundamental Probability Distributions
+  + Bernoulli Trials
+* dplyr
+* *Reading* Appendix A, p. 315 - 323
+ 
+## Friday
+
+* Fundamental Probability Distributions
+  + Binomial Distribution
+* Quiz 2
+
+  

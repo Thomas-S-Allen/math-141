@@ -16,5 +16,7 @@ Every week you'll be working with a new data set and organizing your work in an 
 
 4. [Data Wrangling](/labs/data_wrangling.html)
 
+5. [Benford's Law](/labs/05-Benfords_Law.html)
+
 
 
