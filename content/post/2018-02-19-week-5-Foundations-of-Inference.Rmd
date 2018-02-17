@@ -15,6 +15,6 @@ tags: []
 
 ## Tuesday
 
-* Lab 5: Benford' Law
+*  Lab 5: [Benford's Law](/labs/05-Benfords_Law.html)
 
   
