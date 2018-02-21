@@ -30,6 +30,13 @@ Due Monday, February 12, 2018
 
 Please work through [problem set 3](/handouts/ps3.pdf).
 
+### Problem Set 4
+
 Due Monday, February 19, 2018
 
 Please work through [problem set 4](/handouts/ps4.pdf).
+
+### Problem Set 5
+Due Monday, February 26, 2018
+
+Please work through problems 1, 2, and 3 from Chapter 2.
