@@ -17,4 +17,13 @@ tags: []
 
 *  Lab 5: [Benford's Law](/labs/05-Benfords_Law.html)
 
+## Wednesday 
+
+* Lab 5 Questions
+* Hypothesis Testing via Randomization
+
+## Friday
+
+* Hypothesis Testing (Continued)
+* [Slides](/slides/05C-hypothesis-testing.html)
   
