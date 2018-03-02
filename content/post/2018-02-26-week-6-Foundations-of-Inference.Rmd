@@ -1,8 +1,8 @@
 ---
-title: 'Week 5: Foundations of Inference'
+title: 'Week 6: Foundations of Inference'
 author: ''
-date: '2018-02-19'
-slug: week-5-foundations-inference
+date: '2018-02-26'
+slug: week-6-foundations-inference
 categories: []
 tags: []
 ---
