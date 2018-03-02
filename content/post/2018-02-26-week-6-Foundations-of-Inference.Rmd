@@ -1,0 +1,30 @@
+---
+title: 'Week 5: Foundations of Inference'
+author: ''
+date: '2018-02-19'
+slug: week-5-foundations-inference
+categories: []
+tags: []
+---
+
+ 
+## Monday
+
+* Foundations of Inference: An Analogy
+* *Reading* Chapter 2, p. 72-85
+* [Slides](/slides/06A-Hypothesis_Testing_II.html)
+
+
+## Tuesday
+
+*  Lab 5: No Lab this week.
+
+## Wednesday 
+
+* Practice
+* Midterm Review
+
+## Friday
+
+* Null Distributions via Probability Theory
+  
