@@ -1,5 +1,5 @@
 ---
-title: 'Week 6: Foundations of Inference'
+title: 'Week 6: Foundations of Inference II'
 author: ''
 date: '2018-02-26'
 slug: week-6-foundations-inference
