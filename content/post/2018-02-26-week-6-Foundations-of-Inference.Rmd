@@ -17,14 +17,11 @@ tags: []
 
 ## Tuesday
 
-*  Lab 5: No Lab this week.
+*  [Lab 6: The Building Blocks of Inference](/labs/The-Building-Blocks-of-Inference.html)
 
 ## Wednesday 
 
-* Practice
-* Midterm Review
 
 ## Friday
 
-* Null Distributions via Probability Theory
   
