@@ -40,3 +40,12 @@ Please work through [problem set 4](/handouts/ps4.pdf).
 Due Monday, February 26, 2018
 
 Please work through problems 1, 2, and 3 from Chapter 2.
+
+### Problem Set 6
+Due Monday, March 19, 2018
+
+Please work through problems 10, 13, 16, 18, 20, and 24 at the end of chapter 2 and please read the following short piece in [the news](https://www.vox.com/science-and-health/2017/3/3/14792174/half-scientific-studies-news-are-wrong) and answer the following questions.
+
+1. If you are a scientist that aches to be written up in the newspapers, how might you conduct your analysis to maximize your chances?
+
+2. As a consumer of media, how might you adjust your interpretation of "new study finds . . " articles in light of this reading?
