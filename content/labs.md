@@ -18,5 +18,7 @@ Every week you'll be working with a new data set and organizing your work in an 
 
 5. [Benford's Law](/labs/05-Benfords_Law.html)
 
+6. [The Building Blocks of Inference](/labs/The-Building-Blocks-of-Inference.html)
+
 
 
