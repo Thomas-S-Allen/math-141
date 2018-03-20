@@ -49,3 +49,8 @@ Please work through problems 10, 13, 16, 18, 20, and 24 at the end of chapter 2 
 1. If you are a scientist that aches to be written up in the newspapers, how might you conduct your analysis to maximize your chances?
 
 2. As a consumer of media, how might you adjust your interpretation of "new study finds . . " articles in light of this reading?
+
+### Problem Set 7
+Due Monday, March 26, 2018
+
+Please work through problems 1, 35, 37, 39 and 42 in the Exercises at the end of Chapter 3.
