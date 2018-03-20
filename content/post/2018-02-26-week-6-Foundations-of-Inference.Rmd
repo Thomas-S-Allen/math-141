@@ -21,7 +21,12 @@ tags: []
 
 ## Wednesday 
 
+* Approximating the Null Distribution
+* Central Limit Theorem
 
 ## Friday
+
+* Infer Package Overview
+* Midterm 1
 
   
