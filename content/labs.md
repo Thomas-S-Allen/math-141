@@ -21,6 +21,8 @@ Every week you'll be working with a new data set and organizing your work in an 
 6. [The Building Blocks of Inference](/labs/inference.html)
 
 7. [Inference for Catagorical Data](/labs/07-Inference-for-categorical-data.html)
+  + [Gallop Poll Press Release](/labs/Gallop_International_2012.pdf)
+
 
 
 
