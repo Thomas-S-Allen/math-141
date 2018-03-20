@@ -1,0 +1,35 @@
+---
+title: 'Week 6: Inference'
+author: ''
+date: '2018-03-05'
+slug: week-7-inference
+categories: []
+tags: []
+---
+
+ 
+## Monday
+
+* Normal Distribution
+* Statistical Errors
+* *Reading* Chapter 2, p. 85-107
+
+
+## Tuesday
+
+* [Lab 7: Inference for Catagorical Data](/labs/07-Inference-for-categorical-data.html)
+
+## Wednesday 
+
+* Hypothesis Tests Review
+* Practice
+* [Slides](/slides/07B-H-Tests_rev.html)
+
+## Friday
+
+* Sampling Distribution
+* Confidence Intervals
+* The Bootstrap
+* [Slides](/slides/07C-CI-for-prop.html)
+
+  

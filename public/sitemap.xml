@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/2018/03/05/week-7-inference/</loc>
+    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2018/02/26/week-6-foundations-inference-ii/</loc>
     <lastmod>2018-02-26T00:00:00+00:00</lastmod>
   </url>
@@ -43,7 +48,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -52,7 +57,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

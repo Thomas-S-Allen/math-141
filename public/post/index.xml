@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Introduction to Probability and Statistics at Reed College</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week 6: Inference</title>
+      <link>/post/2018/03/05/week-7-inference/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/03/05/week-7-inference/</guid>
+      <description>Monday  Normal Distribution Statistical Errors Reading Chapter 2, p. 85-107   Tuesday  Lab 7: Inference for Catagorical Data   Wednesday  Hypothesis Tests Review Practice Slides   Friday  Sampling Distribution Confidence Intervals The Bootstrap Slides   </description>
+    </item>
     
     <item>
       <title>Week 6: Foundations of Inference II</title>
