@@ -68,12 +68,16 @@ Exp. count | 15.22 |  7.08 | 44.25 | 272.58 | 14.87 | 354
 ## Simulating Oregonian Reedies {.build}
 
 ```{r sim}
+obs <- c(49, 10, 34, 206, 55)
 n <- 354
 p <- c(.043, .02, .125, .77, .042)
 samp <- factor(sample(c("asian", "black", "hispanic", "white", "other"), 
        size = n, replace = TRUE, prob = p), 
        levels = c("asian", "black", "hispanic", "white", "other"))
 table(samp)
+
+
+
 obs <- c(49, 10, 34, 206, 55)
 ```
 

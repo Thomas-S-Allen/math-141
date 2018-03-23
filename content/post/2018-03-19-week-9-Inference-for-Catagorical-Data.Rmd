@@ -1,0 +1,36 @@
+---
+title: 'Week 9: Inference'
+author: ''
+date: '2018-03-19'
+slug: week-9-inference-for-catagorical-data
+categories: []
+tags: []
+---
+
+ 
+## Monday
+
+* Lab Questions
+* Inference for one and two proportions with Normal Approximation
+* *Reading* Chapter 3, p. 123-133
+* [Slides](/slides/09A-diff-in-p.html)
+
+## Tuesday
+
+* [Lab 7: Inference for Catagorical Data](/labs/07-Inference-for-categorical-data.html)
+
+## Wednesday 
+
+* Inference for multiple proportions
+* Chi-squared Goodness of Fit
+* *Reading* Chapter 3, p. 134-144
+* [Slides](/slides/09B-Inference-for-many-proportions.html)
+
+## Friday
+
+*
+* Inference for multiple proportions
+* Chi-squared test for Independence
+* [Slides](/slides/09C-Chi-Square-Ind.html)
+
+  
