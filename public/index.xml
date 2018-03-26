@@ -6,10 +6,19 @@
     <description>Recent content in Home on Introduction to Probability and Statistics at Reed College</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week 10: Inference for Numerical Data</title>
+      <link>/post/2018/03/26/week-10-inference-for-numerical-data/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/03/26/week-10-inference-for-numerical-data/</guid>
+      <description>Monday  Inference for single mean Reading Chapter 4, p. 163-176   Tuesday  No Lab   Wednesday  Inference for multiple means Reading Chapter 4, p. 176-195   Friday  </description>
+    </item>
     
     <item>
       <title>Week 9: Inference</title>

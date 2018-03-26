@@ -1,0 +1,28 @@
+---
+title: 'Week 10: Inference for Numerical Data'
+author: ''
+date: '2018-03-26'
+slug: week-10-inference-for-numerical-data
+categories: []
+tags: []
+---
+
+ 
+## Monday
+
+* Inference for single mean
+* *Reading* Chapter 4, p. 163-176
+
+## Tuesday
+
+* No Lab
+
+## Wednesday 
+
+* Inference for multiple means
+* *Reading* Chapter 4, p. 176-195
+
+## Friday
+
+
+  
