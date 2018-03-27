@@ -54,3 +54,7 @@ Please work through problems 10, 13, 16, 18, 20, and 24 at the end of chapter 2 
 Due Monday, March 26, 2018
 
 Please work through problems 1, 35, 37, 39 and 42 in the Exercises at the end of Chapter 3.
+
+### Problem Set 8
+
+Please work through problems 5, 10, 14, 30, and 35 in the Exercises at the end of Chapter 4.
