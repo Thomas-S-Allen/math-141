@@ -12,6 +12,7 @@ tags: []
 
 * Inference for single mean
 * *Reading* Chapter 4, p. 163-176
+* [Slides](/slides/10A-one-mean.html)
 
 ## Tuesday
 
@@ -21,8 +22,11 @@ tags: []
 
 * Inference for multiple means
 * *Reading* Chapter 4, p. 176-195
+* [Slides](/slides/10B-inf-for-paired-means.html)
+* [Slides](/slides/10B-ANOVA.html)
 
 ## Friday
+* Overview/Review
 
 
   
