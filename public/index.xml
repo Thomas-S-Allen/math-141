@@ -6,18 +6,18 @@
     <description>Recent content in Home on Introduction to Probability and Statistics at Reed College</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Week 10: Inference for Numerical Data</title>
-      <link>/post/2018/03/26/week-10-inference-for-numerical-data/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      <title>Week 11: Simple Linear Regression</title>
+      <link>/post/2018/04/02/week-11-simple-linear-regression/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/03/26/week-10-inference-for-numerical-data/</guid>
-      <description>Monday  Inference for single mean Reading Chapter 4, p. 163-176 Slides   Tuesday  No Lab   Wednesday  Inference for multiple means Reading Chapter 4, p. 176-195 Slides Slides   Friday  Overview/Review   </description>
+      <guid>/post/2018/04/02/week-11-simple-linear-regression/</guid>
+      <description>Monday  Simple Linear Regression Reading Chapter 5, p. 219-227   Tuesday  Simple Linear Regression   Wednesday  Simple Linear Regression Reading Chapter 5, p. 227-234   Friday  </description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/03/26/week-10-inference-for-numerical-data/</guid>
-      <description>Monday  Simple Linear Regression Reading Chapter 5, p. 219-227   Tuesday  Simple Linear Regression   Wednesday  Simple Linear Regression Reading Chapter 5, p. 227-234   Friday  </description>
+      <description>Monday  Inference for single mean Reading Chapter 4, p. 163-176 Slides   Tuesday  No Lab   Wednesday  Inference for multiple means Reading Chapter 4, p. 176-195 Slides Slides   Friday  Overview/Review   </description>
     </item>
     
     <item>
