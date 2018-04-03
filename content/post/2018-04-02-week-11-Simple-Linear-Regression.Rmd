@@ -23,6 +23,9 @@ tags: []
 * *Reading* Chapter 5, p. 227-234
 
 ## Friday
+* Inference for $\beta$
+* Outliers
+* *Reading* Chapter 5, p. 234-243
 
 
 
