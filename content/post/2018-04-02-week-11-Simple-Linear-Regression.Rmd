@@ -1,0 +1,29 @@
+---
+title: 'Week 10: Inference for Numerical Data'
+author: ''
+date: '2018-03-26'
+slug: week-10-inference-for-numerical-data
+categories: []
+tags: []
+---
+
+ 
+## Monday
+
+* Simple Linear Regression
+* *Reading* Chapter 5, p. 219-227
+
+## Tuesday
+
+*  [Simple Linear Regression](/labs/simple_regression.html)
+
+## Wednesday 
+
+* Simple Linear Regression
+* *Reading* Chapter 5, p. 227-234
+
+## Friday
+
+
+
+  
