@@ -12,6 +12,7 @@ tags: []
 
 * Simple Linear Regression
 * *Reading* Chapter 5, p. 219-227
+* [slides](/slides/11A-slr-1.html)
 
 ## Tuesday
 
@@ -21,13 +22,16 @@ tags: []
 
 * Simple Linear Regression
 * *Reading* Chapter 5, p. 227-234
+* [slides](/slides/11B-slr-2.html)
 
 ## Friday
 * Inference for $\beta$
 * *Reading* Chapter 5, p. 234-243
+* [slides](/slides/11C-slr-3.html)
 * [HW 6 Solutions](/solutions/problem_set6.html)
 * [HW 7 Solutions](/solutions/problem_set7.html)
 * [HW 8 Solutions](/solutions/problem_set8.html)
+
 
 
 
