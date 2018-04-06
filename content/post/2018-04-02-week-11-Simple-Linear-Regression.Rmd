@@ -24,8 +24,11 @@ tags: []
 
 ## Friday
 * Inference for $\beta$
-* Outliers
 * *Reading* Chapter 5, p. 234-243
+* [HW 6 Solutions](/solutions/problem_set6.html)
+* [HW 7 Solutions](/solutions/problem_set7.html)
+* [HW 8 Solutions](/solutions/problem_set8.html)
+
 
 
 
