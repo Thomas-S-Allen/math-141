@@ -58,3 +58,7 @@ Please work through problems 1, 35, 37, 39 and 42 in the Exercises at the end of
 ### Problem Set 8
 
 Please work through problems 5, 10, 14, 30, and 35 in the Exercises at the end of Chapter 4.
+
+### Problem Set 9 
+
+Please work through problems 5, 6, 17, 21, 30, 31, and 33 in the Exercises at the end of Chapter 5.

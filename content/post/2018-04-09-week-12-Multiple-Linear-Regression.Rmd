@@ -1,0 +1,31 @@
+---
+title: 'Week 12: Multiple Linear Regression'
+author: ''
+date: '2018-04-09'
+slug: week-12-multiple-linear-regression
+categories: []
+tags: []
+---
+
+ 
+## Monday
+
+* Multiple Linear Regression
+* *Reading* Chapter 6, p. 261-266
+* [slides](/slides/12A-ancova.html)
+
+## Tuesday
+
+*  [Simple Linear Regression II](/labs/simple_linear_regression_ii.html)
+
+## Wednesday 
+
+* *Reading* Chapter 6, p. 266-275
+
+## Friday
+
+
+
+
+
+  
