@@ -6,10 +6,19 @@
     <description>Recent content in Home on Introduction to Probability and Statistics at Reed College</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week 12: Multiple Linear Regression</title>
+      <link>/post/2018/04/09/week-12-multiple-linear-regression/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/04/09/week-12-multiple-linear-regression/</guid>
+      <description>Monday  Multiple Linear Regression Reading Chapter 6, p. 261-266 slides   Tuesday  Simple Linear Regression II   Wednesday  Reading Chapter 6, p. 266-275   Friday  </description>
+    </item>
     
     <item>
       <title>Week 11: Simple Linear Regression</title>

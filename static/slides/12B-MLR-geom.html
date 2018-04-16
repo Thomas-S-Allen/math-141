@@ -88,13 +88,13 @@
           </hgroup>
   </slide>
 
-<slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Geometry of MLR</h2></hgroup><article  id="geometry-of-mlr">
+<slide class='segue dark nobackground level1'><hgroup class = 'auto-fadein'><h2>Geometry of MLR</h2></hgroup><article  id="geometry-of-mlr">
 
-</article></slide><slide class=""><hgroup><h2>Ex: Restaurants in NYC</h2></hgroup><article  id="ex-restaurants-in-nyc">
+</article></slide><slide class=''><hgroup><h2>Ex: Restaurants in NYC</h2></hgroup><article  id="ex-restaurants-in-nyc">
 
 <img src='http://andrewpbray.github.io/reg/zagat.png' title='fig:'/><p class='caption'>zagat</p>
 
-</article></slide><slide class=""><hgroup><h2>Ex: Restaurants in NYC</h2></hgroup><article  id="ex-restaurants-in-nyc-1" class="build">
+</article></slide><slide class=''><hgroup><h2>Ex: Restaurants in NYC</h2></hgroup><article  id="ex-restaurants-in-nyc-1" class="build">
 
 <pre class = 'prettyprint lang-r'>nyc[1:3,]</pre>
 
@@ -111,7 +111,7 @@
 
 <p><em>A restaurant</em></p>
 
-</article></slide><slide class=""><hgroup><h2>What determines the price of a meal?</h2></hgroup><article  id="what-determines-the-price-of-a-meal">
+</article></slide><slide class=''><hgroup><h2>What determines the price of a meal?</h2></hgroup><article  id="what-determines-the-price-of-a-meal">
 
 <p>Let&#39;s look at the relationship between price, food rating, and decor rating.</p>
 
@@ -126,7 +126,7 @@
 
 <pre class = 'prettyprint lang-r'>m1 &lt;- lm(Price ~ Food + Decor, data = nyc)</pre>
 
-</article></slide><slide class=""><hgroup><h2>Model 1: Food + Decor</h2></hgroup><article  id="model-1-food-decor" class="smaller">
+</article></slide><slide class=''><hgroup><h2>Model 1: Food + Decor</h2></hgroup><article  id="model-1-food-decor" class="smaller">
 
 <pre class = 'prettyprint lang-r'>summary(m1)</pre>
 
@@ -150,7 +150,7 @@
 ## Multiple R-squared:  0.617,  Adjusted R-squared:  0.612 
 ## F-statistic:  133 on 2 and 165 DF,  p-value: &lt;2e-16</pre>
 
-</article></slide><slide class=""><hgroup><h2>The geometry of regression models</h2></hgroup><article  id="the-geometry-of-regression-models" class="build">
+</article></slide><slide class=''><hgroup><h2>The geometry of regression models</h2></hgroup><article  id="the-geometry-of-regression-models" class="build">
 
 <p>The function for \(\hat{y}\) is . . .</p>
 
@@ -164,9 +164,9 @@
 
 <p><em>a plane</em></p>
 
-</article></slide><slide class=""><hgroup><h2>3d plot</h2></hgroup><article  id="d-plot">
+</article></slide><slide class=''><hgroup><h2>3d plot</h2></hgroup><article  id="d-plot">
 
-</article></slide><slide class=""><hgroup><h2>Location, location, location</h2></hgroup><article  id="location-location-location">
+</article></slide><slide class=''><hgroup><h2>Location, location, location</h2></hgroup><article  id="location-location-location">
 
 <p>Does the price depend on where the restaurant is located in Manhattan?</p>
 
@@ -179,7 +179,7 @@
 ## 2    2  Tello&#39;s Ristorante    32   20    19      19    0
 ## 3    3          Biricchino    34   21    13      18    0</pre>
 
-</article></slide><slide class=""><hgroup><h2>Model 2: Food + Decor + East</h2></hgroup><article  id="model-2-food-decor-east">
+</article></slide><slide class=''><hgroup><h2>Model 2: Food + Decor + East</h2></hgroup><article  id="model-2-food-decor-east">
 
 <pre class = 'prettyprint lang-r'>m2 &lt;- lm(Price ~ Food + Decor + East, data = nyc)
 summary(m2)</pre>
@@ -205,16 +205,16 @@ summary(m2)</pre>
 ## Multiple R-squared:  0.628,  Adjusted R-squared:  0.621 
 ## F-statistic: 92.2 on 3 and 164 DF,  p-value: &lt;2e-16</pre>
 
-</article></slide><slide class=""><hgroup><h2>The geometry of regression models</h2></hgroup><article  id="the-geometry-of-regression-models-1" class="build">
+</article></slide><slide class=''><hgroup><h2>The geometry of regression models</h2></hgroup><article  id="the-geometry-of-regression-models-1" class="build">
 
 <ul class = 'build'>
 <li>When you have two continuous predictors \(x_1\), \(x_2\), then your mean function is <em>a plane</em>.</li>
 <li>When you have two continuous predictors \(x_1\), \(x_2\), and a categorical predictor \(x_3\), then your mean function represents <em>parallel planes</em>.</li>
 </ul>
 
-</article></slide><slide class=""><hgroup><h2>3d Plot</h2></hgroup><article  id="d-plot-1">
+</article></slide><slide class=''><hgroup><h2>3d Plot</h2></hgroup><article  id="d-plot-1">
 
-</article></slide><slide class=""><hgroup><h2>The geometry of regression models</h2></hgroup><article  id="the-geometry-of-regression-models-2" class="build">
+</article></slide><slide class=''><hgroup><h2>The geometry of regression models</h2></hgroup><article  id="the-geometry-of-regression-models-2" class="build">
 
 <ul class = 'build'>
 <li>When you have two continuous predictors \(x_1\), \(x_2\), then your mean function is <em>a plane</em>.</li>
@@ -222,7 +222,7 @@ summary(m2)</pre>
 <li>When you add in interaction effects, the planes become <em>tilted</em>.</li>
 </ul>
 
-</article></slide><slide class=""><hgroup><h2>Model 3: Food + Decor + East + Decor:East</h2></hgroup><article  id="model-3-food-decor-east-decoreast" class="smaller">
+</article></slide><slide class=''><hgroup><h2>Model 3: Food + Decor + East + Decor:East</h2></hgroup><article  id="model-3-food-decor-east-decoreast" class="smaller">
 
 <pre class = 'prettyprint lang-r'>m3 &lt;- lm(Price ~ Food + Decor + East + Decor:East, data = nyc)
 summary(m3)</pre>
@@ -249,9 +249,9 @@ summary(m3)</pre>
 ## Multiple R-squared:  0.631,  Adjusted R-squared:  0.622 
 ## F-statistic: 69.8 on 4 and 163 DF,  p-value: &lt;2e-16</pre>
 
-</article></slide><slide class=""><hgroup><h2>3d plot</h2></hgroup><article  id="d-plot-2">
+</article></slide><slide class=''><hgroup><h2>3d plot</h2></hgroup><article  id="d-plot-2">
 
-</article></slide><slide class=""><hgroup><h2>Comparing Models</h2></hgroup><article  id="comparing-models">
+</article></slide><slide class=''><hgroup><h2>Comparing Models</h2></hgroup><article  id="comparing-models">
 
 <ul class = 'build'>
 <li>The <code>East</code> term was significant in model 2, suggesting that there is a significant relationship between location and price.</li>

@@ -27,6 +27,6 @@ Every week you'll be working with a new data set and organizing your work in an 
 
 9. [Simple Linear Regression II](/labs/simple_linear_regression_ii.html)
 
-
+10. [Multiple Linear Regression](/labs/multiple_regression.html)
 
 
