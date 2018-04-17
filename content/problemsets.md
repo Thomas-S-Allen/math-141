@@ -62,3 +62,7 @@ Please work through problems 5, 10, 14, 30, and 35 in the Exercises at the end o
 ### Problem Set 9 
 
 Please work through problems 5, 6, 17, 21, 30, 31, and 33 in the Exercises at the end of Chapter 5.
+
+### Problem Set 10
+
+Please work through problems 1, 2, 3, 5, 6, and 7 in the Exercises at the end of Chapter 6.
