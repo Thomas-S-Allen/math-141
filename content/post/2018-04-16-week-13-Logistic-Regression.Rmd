@@ -1,0 +1,37 @@
+---
+title: 'Week 13: Logistic Regression'
+author: ''
+date: '2018-04-16'
+slug: week-13-logistic-regression
+categories: []
+tags: []
+---
+
+ 
+## Monday
+
+* Multicollinearity
+* *Reading* Chapter 6, p. 261-266
+* [slides](/slides/13A-Multicollinearity.html)
+
+## Tuesday
+
+* [Multiple Linear Regression](/labs/multiple_regression.html)
+
+## Wednesday 
+
+* Logistic Regression
+* [slides](/slides/13B-logisitic.html)
+* *Reading* Chapter 6, p. 275-284
+
+## Friday
+
+* Quiz
+* Course Evaluations
+
+
+
+
+
+
+  

@@ -1,0 +1,32 @@
+---
+title: 'Week 13: Logistic Regression'
+author: ''
+date: '2018-04-16'
+slug: week-13-logistic-regression
+categories: []
+tags: []
+---
+
+ 
+## Monday
+
+* Poisson Regression
+* *Reading* Chapter 6, p. 261-266
+* [slides](/slides/14A-senior-theses.html)
+
+## Tuesday
+
+* No lab this week.
+
+## Wednesday 
+
+
+## Friday
+
+
+
+
+
+
+
+  
