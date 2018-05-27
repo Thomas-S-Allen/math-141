@@ -1,8 +1,8 @@
 ---
-title: 'Week 13: Logistic Regression'
+title: 'Week 14: Logistic Regression'
 author: ''
-date: '2018-04-16'
-slug: week-13-logistic-regression
+date: '2018-04-23'
+slug: week-14-poisson-regression
 categories: []
 tags: []
 ---
@@ -20,9 +20,12 @@ tags: []
 
 ## Wednesday 
 
+* Bayesian Inference
+
 
 ## Friday
 
+* Review
 
 
 
